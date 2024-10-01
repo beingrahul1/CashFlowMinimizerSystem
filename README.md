@@ -12,3 +12,4 @@ Transactions: Represented in a graph, where each transaction is directed from on
 Net Balance Calculation: For each bank, we calculate the total money that needs to be paid or received based on the transactions.
 
 Cash Flow Minimization: The core algorithm uses greedy methods to reduce the number of transactions. It identifies the bank with the smallest debt and pairs it with the bank that can receive the most money.
+<img width="1440" alt="Screenshot 2024-10-01 at 2 58 03 PM" src="https://github.com/user-attachments/assets/cc5a8168-73cb-44d6-83ef-f31c568743c3">
